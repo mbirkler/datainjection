@@ -194,6 +194,7 @@
       <lang>pt_BR</lang>
       <lang>tr_TR</lang>
       <lang>zh_CN</lang>
+      <lang>de_DE</lang>
    </langs>
    <category>injection/import</category>
    <tags>
@@ -215,6 +216,12 @@
             <tag>csv</tag>
             <tag>entités</tag>
          </fr>
+          <de>
+            <tag>Import</tag>
+            <tag>Daten</tag>
+            <tag>csv</tag>
+            <tag>Einheit</tag>
+          </de>
    </tags>
    <license>GPL v2+</license>
 </root>
